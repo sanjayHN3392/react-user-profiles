@@ -1,0 +1,23 @@
+.profileData-enter{
+    opacity: 0;
+    transition: opacity 300ms;
+}
+  .profileData-enter-active{
+      opacity: .10;
+      transition: opacity 300ms;
+  }
+
+  .profileData-enter-done{
+    opacity: 1;
+   
+}
+
+.profileData-exit{
+    opacity: 1;
+  
+}
+
+.profileData-exit-active{
+    opacity: .5;
+    transition: opacity 100ms;
+}

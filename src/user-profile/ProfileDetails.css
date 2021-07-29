@@ -1,0 +1,30 @@
+.profileDetails{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    background-color:tomato;
+    text-align: center;
+    box-shadow: 0 0 2px 1px rgba(22, 23, 24, 0.5);
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.imagetag{
+    width: 100%;
+    border-radius: 0;
+    height: 300px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 600px) {
+    .emailtext {
+      font-size: 15px;
+    }
+  }
+
+
+  
