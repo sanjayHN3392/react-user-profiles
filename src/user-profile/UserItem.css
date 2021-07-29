@@ -2,7 +2,7 @@
     align-items: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     /* max-width: 100px; */
-    margin: 25px;
+    margin: 5%;
     padding-top:10px;
     border-radius: 15px;
     background-color:mediumvioletred;
@@ -36,3 +36,4 @@
     color:black;
     font-weight: 900;
 }
+

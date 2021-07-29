@@ -24,6 +24,16 @@
     .emailtext {
       font-size: 15px;
     }
+    .profileDetails{
+        margin-left: 20%;
+    margin-right: 20%;
+    }
+    .imagetag{
+        width: 100%;
+        border-radius: 0;
+        height: 150px;
+        object-fit: cover;
+    }
   }
 
 
